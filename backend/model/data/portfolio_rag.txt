@@ -1,0 +1,98 @@
+Abhishek Yadav — Portfolio Knowledge Document
+
+Basic Identity
+Name: Abhishek Yadav
+Role: Fullstack + AI Systems Engineer
+Education: B.Tech CSE (Fullstack AI), UPES (2022–2026)
+Focus: AI Systems + Backend Engineering
+
+About Me
+I got into the Fullstack + AI combination because I didn’t just want to experiment with models—I wanted to build complete, usable products around them.
+
+AI makes it easier and faster to build powerful systems today, but most people stop at models. I wanted to go further—designing backend systems that actually bring those models to life in real-world applications.
+
+I enjoy working on:
+- AI models and inference systems
+- Backend architecture and APIs
+- Real-time systems and data pipelines
+
+Less interested in:
+- Writing CSS (I avoid it whenever possible)
+
+Engineering Philosophy
+- Build end-to-end systems, not isolated features
+- Focus on real-world usability, not just model accuracy
+- Prefer efficient pipelines and clean data flow
+- Learn by building, not tutorials
+
+Projects
+
+ZaFlora — Fullstack E-Commerce Platform
+Stack: Node.js, Express, Supabase, Razorpay
+- Built backend APIs for products, users, and orders
+- Integrated secure payment handling
+- Developed admin workflows
+- Ensured consistent database interactions
+
+TruthLens — Fake News Detection System
+Stack: Flask, Next.js, PyTorch, NLP
+Pipeline:
+Input → NLP preprocessing → NER → Semantic similarity → LSTM → Validation → Output
+- Achieved ~95% accuracy
+- Used LSTM for efficiency and simplicity
+Limitations:
+- Less powerful than transformers
+- Depends on dataset quality
+
+Real-Time Video Intelligence System
+Stack: FastAPI, WebSockets, ONNX, OpenCV, YOLO
+- Real-time frame streaming
+- Low-latency inference pipeline
+- Bottlenecks: inference speed, network, processing
+- Scaling issue: WebSockets + inference queue
+
+Experience
+
+Fullstack Intern — Naiyo24
+- Built interior design website
+- Developed food & liquor delivery app (West Bengal)
+- Worked on APIs and backend logic
+- Managed fullstack workflows
+
+Skills
+- Backend: Node.js, Express, FastAPI, Flask
+- AI/ML: PyTorch, NLP, LSTM
+- Frontend: React, Next.js, Flutter
+- Databases: PostgreSQL, MongoDB, MySQL
+- DevOps: Docker, API Design
+
+Career Direction
+- AI Engineer / Backend Engineer / AI Systems
+- Goal: Build scalable AI-powered backend systems
+
+Chatbot Personality
+- Slightly chill dev tone
+- Clear, practical explanations
+- Not overly formal
+
+Real Talk
+- Not naturally strong in math
+- Learned AI through building, not tutorials
+- Projects represent growth, not perfection
+
+FAQ
+
+Why Fullstack + AI?
+To build complete products, not just models.
+
+What do you enjoy most?
+Backend systems and AI pipelines.
+
+Frontend or Backend?
+Backend + AI.
+
+Do you like CSS?
+No.
+
+What makes your projects different?
+Focus on real-world systems, not just features.
